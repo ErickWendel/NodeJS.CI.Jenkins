@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-erick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickWendel/NodeJS.CI.Jenkins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickWendel/NodeJS.CI.Jenkins/issues"
+  },
+  "homepage": "https://github.com/ErickWendel/NodeJS.CI.Jenkins#readme"
+}
